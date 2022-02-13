@@ -1,5 +1,4 @@
 # WHU-OPT-SAR-dataset
-# We will open source the WHU-OPT-SAR dataset soon, please stay tuned!
 
 ___Introduction___
 
