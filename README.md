@@ -1,5 +1,5 @@
 # WHU-OPT-SAR-dataset
-
+# paper doi:https://doi.org/10.1016/j.jag.2021.102638
 ___Introduction___
 
   WHU-OPT-SAR comprised RGB, near infrared (NIR) optical images and corresponding SAR images, covering an area of 51448.56 km<sup>2</sup> with a resolution of 5-meters. As far as we know, WHU-OPT-SAR is the first and largest land use classification dataset that has fused high resolution optical and SAR images with sufficient annotation. 
