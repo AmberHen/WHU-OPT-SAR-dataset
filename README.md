@@ -12,6 +12,8 @@ ___Details___
   The WHU-OPT-SAR dataset contains 100 optical images of 5556*3704 pixels and SAR images in the same area, covering an area of about 50000 km<sup>2</sup> in Hubei Province (30°N-33°N, 108°E-117°E), China. This area has a subtropical monsoon climate, with lowest altitude of 50m and highest altitude of 3000m. WHU-OPT-SAR covers a wide range of remote sensing images with different terrains such as mountains, woodlands, hills, plains and different vegetation such as coniferous forests, broad-leaved forests, shrubs and aquatic vegetation. Images in this dataset with pixel-level annotations can provide data sources for land use classification based on deep learning. And its well-trained model can be used to training other similar tasks in the remote sensing field.   
 <img src="https://github.com/AmberHen/WHU-OPT-SAR-dataset/blob/main/2.jpg?raw=true" width = "916" height = "691" div align=center />
 
+0->background，10->farmland，20->city，30->village，40->water，50->forest，60->road，70->others。
+
 ___Link___
 
 Links to datasets：https://pan.baidu.com/s/1sIGsD3lBEogSCqzbDOaclA 
