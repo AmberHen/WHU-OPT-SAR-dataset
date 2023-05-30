@@ -26,7 +26,7 @@ Or
 
 https://drive.google.com/drive/folders/1W3iMpkehng7ADXmhz9pPvmgFQBayq22t?usp=sharing
 
-We have updated the result image of the data prediction to the baidu web disk!!!
+We have uploaded the prediction results of the dataset to Google Cloud Disk and Baidu Cloud Disk!!!
 
 ___Statement___
 
